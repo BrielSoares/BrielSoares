@@ -57,14 +57,3 @@
 ##
 
 ![Snake animation](https://github.com/BrielSoares/BrielSoares/blob/output/github-contribution-grid-snake.svg)
-
-
-<!--
-
-Créditos:
-<a href="https://icons8.com/icon/6RHskkZGRABM/texto-sublime">Texto sublime icon by Icons8</a>
-<a href="https://icons8.com/icon/xBW8JMtsQGFC/android-studio">Android Studio icon by Icons8</a>
-
-<img src="" width="45px">
-
--->
