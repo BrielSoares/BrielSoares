@@ -2,7 +2,7 @@
 <br>
 <p> 💻Estou cursando Técnico de Infomática para a Internet na ETEC</p>
 <p> 🐍 A primeira linguagem que eu aprendi foi Python</p>
-<p> ☕ Estou aprendendo Javascript, PHP e Desenvolvimento Mobile</p>
+<p> ☕ Estou aprendendo Javascript, PHP e Desenvolvimento Mobile com Java</p>
 <p> 📧 Contato: gabriel.soares9484@gmail.com</p>
 
 <br>
