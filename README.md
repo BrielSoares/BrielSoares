@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Gabriel!
 <br>
-<p> Um jovem que gosta de T.I 
 <p> 💻Estou cursando Técnico de Infomática para a Internet na ETEC</p>
 <p> 🐍 A primeira linguagem que eu aprendi foi Python</p>
 <p> ☕ Estou aprendendo Javascript, PHP e Desenvolvimento Mobile</p>
@@ -10,8 +9,8 @@
 
 <div align="">
   <a href="https://github.com/BrielSoares">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=BrielSoares&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrielSoares&layout=compact&langs_count=7&theme=dark"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=BrielSoares&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrielSoares&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
