@@ -16,7 +16,7 @@
 
  ## Habilidades e ferramentas
 
-### Linguagens:
+### Linguagens e Tecnologias:
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/BrielSoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px">
