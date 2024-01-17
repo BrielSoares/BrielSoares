@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel!
 <br>
-<p> 💻Estou cursando Técnico de Infomática para a Internet na ETEC</p>
+<p> 💻Sou formado como Técnico em Infomática e desenvolvimento web na ETEC</p>
 <p> 🐍 A primeira linguagem que eu aprendi foi Python</p>
 <p> ☕ Estou aprendendo Java e Spring Boot</p>
 <p> 📧 Contato: gabriel.soares9484@gmail.com</p>
