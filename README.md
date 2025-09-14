@@ -5,6 +5,7 @@
 🐍 A primeira linguagem que aprendi foi **Python**  
 🗄️ Tenho experiência com **Python, JavaScript, SQL, Pandas, Node.js, Express, Git**
 📊 Interesse em **análise de dados e desenvolvimento de sistemas**  
+
 ✉️ Contato: **gabriel.soares9484@gmail.com**
 
 <br>
