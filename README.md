@@ -1,9 +1,11 @@
-## Olá! Eu sou o Gabriel!
-<br>
-<p> 💻Sou formado como Técnico em Infomática e desenvolvimento web na ETEC</p>
-<p> 🐍 A primeira linguagem que eu aprendi foi Python</p>
-<p> ☕ Estou aprendendo Java e Spring Boot</p>
-<p> 📧 Contato: gabriel.soares9484@gmail.com</p>
+# 👋 Olá! Eu sou o Gabriel  
+
+💻 Sou formado como **Técnico em Informática para Internet**  
+🎓 Atualmente estudo **Gestão em TI na FATEC Franco da Rocha**  
+🐍 A primeira linguagem que aprendi foi **Python**  
+🗄️ Tenho experiência com **Python, JavaScript, SQL, Pandas, Node.js, Express, Git**
+📊 Interesse em **análise de dados e desenvolvimento de sistemas**  
+✉️ Contato: **gabriel.soares9484@gmail.com**
 
 <br>
 
