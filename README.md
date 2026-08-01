@@ -10,4 +10,4 @@ i'm gabriel, a software developer from brazil.
 
 ### contact
 
-* email: [gabriel.soares9484@gmail.com](mailto:gabriel.soares9484@gmail.com)
+* email: [briel.soares.dev@gmail.com](mailto:briel.soares.dev@gmail.com)
